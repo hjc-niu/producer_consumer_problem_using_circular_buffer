@@ -1,0 +1,428 @@
+PLIBSYS VERSION: 0.0.4
+[SENS 1] Sample num 1 ready: 1
+### Saving sensor 1 sample 1 number 1 ###
+### Handling sensor 1 sample 1 number 1 ###
+[SENS 2] Sample num 1 ready: 1
+### Saving sensor 2 sample 1 number 1 ###
+[SENS 3] Sample num 1 ready: 1
+### Saving sensor 3 sample 1 number 1 ###
+[SENS 1] Sample num 2 ready: 1
+### Saving sensor 1 sample 1 number 2 ###
+[SENS 2] Sample num 2 ready: 1
+### Saving sensor 2 sample 1 number 2 ###
+[SENS 3] Sample num 2 ready: 1
+### Saving sensor 3 sample 1 number 2 ###
+Processing sensor 1 sample number 1: 1
+### Handling sensor 2 sample 1 number 1 ###
+[SENS 1] Sample num 3 ready: 2
+### Saving sensor 1 sample 2 number 3 ###
+[SENS 3] Sample num 3 ready: 2
+### Saving sensor 3 sample 2 number 3 ###
+[SENS 2] Sample num 3 ready: 2
+### Saving sensor 2 sample 2 number 3 ###
+Processing sensor 2 sample number 1: 1
+### Handling sensor 3 sample 1 number 1 ###
+[SENS 1] Sample num 4 ready: 3
+### Saving sensor 1 sample 3 number 4 ###
+[SENS 2] Sample num 4 ready: 3
+### Saving sensor 2 sample 3 number 4 ###
+[SENS 3] Sample num 4 ready: 3
+### Saving sensor 3 sample 3 number 4 ###
+[SENS 1] Sample num 5 ready: 5
+### Saving sensor 1 sample 5 number 5 ###
+[SENS 2] Sample num 5 ready: 5
+[SENS 3] Sample num 5 ready: 5
+### Saving sensor 2 sample 5 number 5 ###
+### Saving sensor 3 sample 5 number 5 ###
+Processing sensor 3 sample number 1: 1
+### Handling sensor 1 sample 1 number 2 ###
+[SENS 1] Sample num 6 ready: 8
+### Saving sensor 1 sample 8 number 6 ###
+[SENS 2] Sample num 6 ready: 8
+[SENS 3] Sample num 6 ready: 8
+### Saving sensor 2 sample 8 number 6 ###
+### Saving sensor 3 sample 8 number 6 ###
+Processing sensor 1 sample number 2: 1
+### Handling sensor 2 sample 1 number 2 ###
+[SENS 1] Sample num 7 ready: 13
+### Saving sensor 1 sample 13 number 7 ###
+[SENS 2] Sample num 7 ready: 13
+### Saving sensor 2 sample 13 number 7 ###
+[SENS 3] Sample num 7 ready: 13
+### Saving sensor 3 sample 13 number 7 ###
+[SENS 1] Sample num 8 ready: 21
+### Saving sensor 1 sample 21 number 8 ###
+[SENS 3] Sample num 8 ready: 21
+### Saving sensor 3 sample 21 number 8 ###
+[SENS 2] Sample num 8 ready: 21
+### Saving sensor 2 sample 21 number 8 ###
+Processing sensor 2 sample number 2: 1
+### Handling sensor 3 sample 1 number 2 ###
+[SENS 1] Sample num 9 ready: 34
+### Saving sensor 1 sample 34 number 9 ###
+[SENS 3] Sample num 9 ready: 34
+[SENS 2] Sample num 9 ready: 34
+### Saving sensor 3 sample 34 number 9 ###
+### Saving sensor 2 sample 34 number 9 ###
+Processing sensor 3 sample number 2: 1
+### Handling sensor 1 sample 2 number 3 ###
+[SENS 1] Sample num 10 ready: 55
+### Saving sensor 1 sample 55 number 10 ###
+[SENS 3] Sample num 10 ready: 55
+### Saving sensor 3 sample 55 number 10 ###
+[SENS 2] Sample num 10 ready: 55
+### Saving sensor 2 sample 55 number 10 ###
+[SENS 1] Sample num 11 ready: 89
+### Saving sensor 1 sample 89 number 11 ###
+[SENS 3] Sample num 11 ready: 89
+### Saving sensor 3 sample 89 number 11 ###
+[SENS 2] Sample num 11 ready: 89
+### Saving sensor 2 sample 89 number 11 ###
+Processing sensor 1 sample number 3: 2
+### Handling sensor 3 sample 2 number 3 ###
+[SENS 1] Sample num 12 ready: 144
+### Saving sensor 1 sample 144 number 12 ###
+[SENS 3] Sample num 12 ready: 144
+### Saving sensor 3 sample 144 number 12 ###
+[SENS 2] Sample num 12 ready: 144
+### Saving sensor 2 sample 144 number 12 ###
+Processing sensor 3 sample number 3: 2
+### Handling sensor 2 sample 2 number 3 ###
+[SENS 1] Sample num 13 ready: 233
+### Saving sensor 1 sample 233 number 13 ###
+[SENS 3] Sample num 13 ready: 233
+### Saving sensor 3 sample 233 number 13 ###
+[SENS 2] Sample num 13 ready: 233
+### Saving sensor 2 sample 233 number 13 ###
+[SENS 1] Sample num 14 ready: 377
+### Saving sensor 1 sample 377 number 14 ###
+[SENS 2] Sample num 14 ready: 377
+!!! queue is full !!![SENS 3] Sample num 14 ready: 377
+Processing sensor 2 sample number 3: 2
+### Handling sensor 1 sample 3 number 4 ###
+### Saving sensor 2 sample 377 number 14 ###
+!!! queue is full !!![SENS 1] Sample num 15 ready: 610
+[SENS 3] Sample num 15 ready: 610
+[SENS 2] Sample num 15 ready: 610
+[SENS 1] Dropped reading
+[SENS 1] Sample num 16 ready: 987
+Processing sensor 1 sample number 4: 3
+### Handling sensor 2 sample 3 number 4 ###
+### Saving sensor 3 sample 377 number 14 ###
+!!! queue is full !!![SENS 3] Dropped reading
+[SENS 3] Sample num 16 ready: 987
+[SENS 2] Dropped reading
+[SENS 2] Sample num 16 ready: 987
+[SENS 1] Sample num 17 ready: 1597
+[SENS 3] Dropped reading
+[SENS 3] Sample num 17 ready: 1597
+Processing sensor 2 sample number 4: 3
+[SENS 2] Dropped reading
+[SENS 2] Sample num 17 ready: 1597
+### Handling sensor 3 sample 3 number 4 ###
+### Saving sensor 1 sample 987 number 16 ###
+!!! queue is full !!![SENS 1] Dropped reading
+[SENS 1] Sample num 18 ready: 2584
+[SENS 3] Dropped reading
+[SENS 3] Sample num 18 ready: 2584
+[SENS 2] Sample num 18 ready: 2584
+Processing sensor 3 sample number 4: 3
+### Handling sensor 1 sample 5 number 5 ###
+### Saving sensor 2 sample 1597 number 17 ###
+!!! queue is full !!![SENS 1] Dropped reading
+[SENS 1] Sample num 19 ready: 4181
+[SENS 3] Sample num 19 ready: 4181
+[SENS 2] Dropped reading
+[SENS 2] Sample num 19 ready: 4181
+[SENS 1] Dropped reading
+[SENS 1] Sample num 20 ready: 6765
+Processing sensor 1 sample number 5: 5
+### Handling sensor 2 sample 5 number 5 ###
+### Saving sensor 3 sample 2584 number 18 ###
+!!! queue is full !!![SENS 2] Dropped reading
+[SENS 2] Sample num 20 ready: 6765
+[SENS 3] Dropped reading
+[SENS 3] Sample num 20 ready: 6765
+[SENS 1] Sample num 21 ready: 10946
+[SENS 2] Dropped reading
+[SENS 2] Sample num 21 ready: 10946
+[SENS 3] Dropped reading
+[SENS 3] Sample num 21 ready: 10946
+Processing sensor 2 sample number 5: 5
+### Handling sensor 3 sample 5 number 5 ###
+### Saving sensor 1 sample 6765 number 20 ###
+!!! queue is full !!![SENS 1] Dropped reading
+[SENS 1] Sample num 22 ready: 17711
+[SENS 2] Sample num 22 ready: 17711
+[SENS 3] Dropped reading
+[SENS 3] Sample num 22 ready: 17711
+[SENS 1] Dropped reading
+[SENS 1] Sample num 23 ready: 28657
+Processing sensor 3 sample number 5: 5
+### Handling sensor 1 sample 8 number 6 ###
+### Saving sensor 2 sample 10946 number 21 ###
+!!! queue is full !!![SENS 3] Sample num 23 ready: 28657
+[SENS 2] Dropped reading
+[SENS 2] Sample num 23 ready: 28657
+[SENS 1] Dropped reading
+[SENS 1] Sample num 24 ready: 46368
+[SENS 3] Dropped reading
+[SENS 2] Dropped reading
+[SENS 2] Sample num 24 ready: 46368
+[SENS 3] Sample num 24 ready: 46368
+Processing sensor 1 sample number 6: 8
+### Handling sensor 2 sample 8 number 6 ###
+### Saving sensor 3 sample 17711 number 22 ###
+!!! queue is full !!![SENS 1] Sample num 25 ready: 75025
+[SENS 3] Dropped reading
+[SENS 3] Sample num 25 ready: 75025
+[SENS 2] Dropped reading
+[SENS 2] Sample num 25 ready: 75025
+[SENS 1] Dropped reading
+[SENS 1] Sample num 26 ready: 121393
+Processing sensor 2 sample number 6: 8
+### Handling sensor 3 sample 8 number 6 ###
+### Saving sensor 1 sample 46368 number 24 ###
+!!! queue is full !!![SENS 2] Sample num 26 ready: 121393
+[SENS 3] Dropped reading
+[SENS 3] Sample num 26 ready: 121393
+[SENS 1] Dropped reading
+[SENS 1] Sample num 27 ready: 196418
+[SENS 2] Dropped reading
+[SENS 2] Sample num 27 ready: 196418
+[SENS 3] Dropped reading
+[SENS 3] Sample num 27 ready: 196418
+Processing sensor 3 sample number 6: 8
+### Handling sensor 1 sample 13 number 7 ###
+### Saving sensor 2 sample 75025 number 25 ###
+!!! queue is full !!![SENS 1] Dropped reading
+[SENS 1] Sample num 28 ready: 317811
+[SENS 2] Dropped reading
+[SENS 2] Sample num 28 ready: 317811
+[SENS 3] Sample num 28 ready: 317811
+[SENS 1] Dropped reading
+[SENS 1] Sample num 29 ready: 514229
+Processing sensor 1 sample number 7: 13
+### Handling sensor 2 sample 13 number 7 ###
+### Saving sensor 3 sample 196418 number 27 ###
+!!! queue is full !!![SENS 3] Dropped reading
+[SENS 3] Sample num 29 ready: 514229
+[SENS 2] Dropped reading
+[SENS 2] Sample num 29 ready: 514229
+[SENS 1] Sample num 30 ready: 832040
+[SENS 3] Dropped reading
+[SENS 3] Sample num 30 ready: 832040
+[SENS 2] Dropped reading
+[SENS 2] Sample num 30 ready: 832040
+[SENS 1] Dropped reading
+[SENS 1] Sample num 31 ready: 1346269
+Processing sensor 2 sample number 7: 13
+### Handling sensor 3 sample 13 number 7 ###
+### Saving sensor 1 sample 514229 number 29 ###
+!!! queue is full !!![SENS 3] Dropped reading
+[SENS 3] Sample num 31 ready: 1346269
+[SENS 2] Sample num 31 ready: 1346269
+[SENS 1] Dropped reading
+[SENS 1] Sample num 32 ready: 2178309
+[SENS 3] Dropped reading
+[SENS 3] Sample num 32 ready: 2178309
+[SENS 2] Dropped reading
+[SENS 2] Sample num 32 ready: 2178309
+Processing sensor 3 sample number 7: 13
+### Handling sensor 1 sample 21 number 8 ###
+### Saving sensor 2 sample 832040 number 30 ###
+!!! queue is full !!![SENS 1] Dropped reading
+[SENS 1] Sample num 33 ready: 3524578
+[SENS 3] Sample num 33 ready: 3524578
+[SENS 2] Dropped reading
+[SENS 2] Sample num 33 ready: 3524578
+[SENS 1] Dropped reading
+[SENS 1] Sample num 34 ready: 5702887
+Processing sensor 1 sample number 8: 21
+### Handling sensor 3 sample 21 number 8 ###
+### Saving sensor 3 sample 2178309 number 32 ###
+!!! queue is full !!![SENS 3] Dropped reading
+[SENS 3] Sample num 34 ready: 5702887
+[SENS 2] Dropped reading
+[SENS 2] Sample num 34 ready: 5702887
+[SENS 1] Sample num 35 ready: 9227465
+Processing sensor 3 sample number 8: 21
+### Handling sensor 2 sample 21 number 8 ###
+### Saving sensor 1 sample 5702887 number 34 ###
+!!! queue is full !!![SENS 2] Sample num 35 ready: 9227465
+[SENS 3] Dropped reading
+[SENS 3] Sample num 35 ready: 9227465
+[SENS 1] Dropped reading
+[SENS 1] Sample num 36 ready: 14930352
+[SENS 2] Dropped reading
+[SENS 2] Sample num 36 ready: 14930352
+[SENS 3] Dropped reading
+[SENS 3] Sample num 36 ready: 14930352
+Processing sensor 2 sample number 8: 21
+### Handling sensor 1 sample 34 number 9 ###
+### Saving sensor 2 sample 5702887 number 34 ###
+!!! queue is full !!![SENS 1] Dropped reading
+[SENS 1] Sample num 37 ready: 24157817
+[SENS 3] Sample num 37 ready: 24157817
+[SENS 2] Dropped reading
+[SENS 2] Sample num 37 ready: 24157817
+[SENS 1] Dropped reading
+[SENS 1] Sample num 38 ready: 39088169
+Processing sensor 1 sample number 9: 34
+### Handling sensor 3 sample 34 number 9 ###
+### Saving sensor 3 sample 14930352 number 36 ###
+!!! queue is full !!![SENS 3] Dropped reading
+[SENS 3] Sample num 38 ready: 39088169
+[SENS 2] Dropped reading
+[SENS 2] Sample num 38 ready: 39088169
+[SENS 1] Sample num 39 ready: 63245986
+[SENS 3] Dropped reading
+[SENS 3] Sample num 39 ready: 63245986
+[SENS 2] Dropped reading
+[SENS 2] Sample num 39 ready: 63245986
+Processing sensor 3 sample number 9: 34
+### Handling sensor 2 sample 34 number 9 ###
+### Saving sensor 1 sample 39088169 number 38 ###
+!!! queue is full !!![SENS 1] Dropped reading
+[SENS 1] Sample num 40 ready: 102334155
+[SENS 2] Sample num 40 ready: 102334155
+[SENS 3] Dropped reading
+[SENS 3] Sample num 40 ready: 102334155
+[SENS 1] Dropped reading
+[SENS 1] Sample num 41 ready: 165580141
+Processing sensor 2 sample number 9: 34
+### Handling sensor 1 sample 55 number 10 ###
+### Saving sensor 2 sample 63245986 number 39 ###
+!!! queue is full !!![SENS 2] Dropped reading
+[SENS 2] Sample num 41 ready: 165580141
+[SENS 3] Sample num 41 ready: 165580141
+[SENS 1] Dropped reading
+[SENS 1] Sample num 42 ready: 267914296
+Processing sensor 1 sample number 10: 55
+### Handling sensor 3 sample 55 number 10 ###
+### Saving sensor 3 sample 102334155 number 40 ###
+!!! queue is full !!![SENS 2] Dropped reading
+[SENS 2] Sample num 42 ready: 267914296
+[SENS 3] Dropped reading
+[SENS 3] Sample num 42 ready: 267914296
+[SENS 1] Sample num 43 ready: 433494437
+[SENS 3] Dropped reading
+[SENS 3] Sample num 43 ready: 433494437
+[SENS 2] Dropped reading
+[SENS 2] Sample num 43 ready: 433494437
+Processing sensor 3 sample number 10: 55
+### Saving sensor 1 sample 267914296 number 42 ###
+!!! queue is full !!!### Handling sensor 2 sample 55 number 10 ###
+[SENS 1] Dropped reading
+[SENS 1] Sample num 44 ready: 701408733
+[SENS 3] Dropped reading
+[SENS 3] Sample num 44 ready: 701408733
+[SENS 2] Sample num 44 ready: 701408733
+[SENS 1] Dropped reading
+[SENS 1] Sample num 45 ready: 1134903170
+Processing sensor 2 sample number 10: 55
+### Saving sensor 2 sample 433494437 number 43 ###
+!!! queue is full !!!### Handling sensor 1 sample 89 number 11 ###
+[SENS 2] Dropped reading
+[SENS 2] Sample num 45 ready: 1134903170
+[SENS 3] Sample num 45 ready: 1134903170
+[SENS 1] Dropped reading
+[SENS 1] Sample num 46 ready: 1836311903
+[SENS 2] Dropped reading
+[SENS 2] Sample num 46 ready: 1836311903
+[SENS 3] Dropped reading
+[SENS 3] Sample num 46 ready: 1836311903
+Processing sensor 1 sample number 11: 89
+### Handling sensor 3 sample 89 number 11 ###
+### Saving sensor 3 sample 701408733 number 44 ###
+!!! queue is full !!![SENS 1] Sample num 47 ready: -1323752223
+[SENS 3] Dropped reading
+[SENS 3] Sample num 47 ready: -1323752223
+[SENS 2] Dropped reading
+[SENS 2] Sample num 47 ready: -1323752223
+[SENS 1] Dropped reading
+[SENS 1] Sample num 48 ready: 512559680
+Processing sensor 3 sample number 11: 89
+### Handling sensor 2 sample 89 number 11 ###
+### Saving sensor 1 sample 1836311903 number 46 ###
+!!! queue is full !!![SENS 3] Dropped reading
+[SENS 3] Sample num 48 ready: 512559680
+[SENS 2] Sample num 48 ready: 512559680
+Stopping sensors...
+[SENS 3] Dropped reading
+[SENS 3] Sample num 49 ready: -811192543
+Processing sensor 2 sample number 11: 89
+### Handling sensor 1 sample 144 number 12 ###
+### Saving sensor 2 sample -1323752223 number 47 ###
+!!! queue is full !!!Stopping threads...
+Processing sensor 1 sample number 12: 144
+### Handling sensor 3 sample 144 number 12 ###
+### Saving sensor 3 sample -811192543 number 49 ###
+### collect_task thread quit ###
+Processing sensor 3 sample number 12: 144
+### Handling sensor 2 sample 144 number 12 ###
+Processing sensor 2 sample number 12: 144
+### Handling sensor 1 sample 233 number 13 ###
+Processing sensor 1 sample number 13: 233
+### Handling sensor 3 sample 233 number 13 ###
+Processing sensor 3 sample number 13: 233
+### Handling sensor 2 sample 233 number 13 ###
+Processing sensor 2 sample number 13: 233
+### Handling sensor 1 sample 377 number 14 ###
+Processing sensor 1 sample number 14: 377
+### Handling sensor 2 sample 377 number 14 ###
+Processing sensor 2 sample number 14: 377
+### Handling sensor 3 sample 377 number 14 ###
+Processing sensor 3 sample number 14: 377
+### Handling sensor 1 sample 987 number 16 ###
+Processing sensor 1 sample number 15: 987
+### Handling sensor 2 sample 1597 number 17 ###
+Processing sensor 2 sample number 15: 1597
+### Handling sensor 3 sample 2584 number 18 ###
+Processing sensor 3 sample number 15: 2584
+### Handling sensor 1 sample 6765 number 20 ###
+Processing sensor 1 sample number 16: 6765
+### Handling sensor 2 sample 10946 number 21 ###
+Processing sensor 2 sample number 16: 10946
+### Handling sensor 3 sample 17711 number 22 ###
+Processing sensor 3 sample number 16: 17711
+### Handling sensor 1 sample 46368 number 24 ###
+Processing sensor 1 sample number 17: 46368
+### Handling sensor 2 sample 75025 number 25 ###
+Processing sensor 2 sample number 17: 75025
+### Handling sensor 3 sample 196418 number 27 ###
+Processing sensor 3 sample number 17: 196418
+### Handling sensor 1 sample 514229 number 29 ###
+Processing sensor 1 sample number 18: 514229
+### Handling sensor 2 sample 832040 number 30 ###
+Processing sensor 2 sample number 18: 832040
+### Handling sensor 3 sample 2178309 number 32 ###
+Processing sensor 3 sample number 18: 2178309
+### Handling sensor 1 sample 5702887 number 34 ###
+Processing sensor 1 sample number 19: 5702887
+### Handling sensor 2 sample 5702887 number 34 ###
+Processing sensor 2 sample number 19: 5702887
+### Handling sensor 3 sample 14930352 number 36 ###
+Processing sensor 3 sample number 19: 14930352
+### Handling sensor 1 sample 39088169 number 38 ###
+Processing sensor 1 sample number 20: 39088169
+### Handling sensor 2 sample 63245986 number 39 ###
+Processing sensor 2 sample number 20: 63245986
+### Handling sensor 3 sample 102334155 number 40 ###
+Processing sensor 3 sample number 20: 102334155
+### Handling sensor 1 sample 267914296 number 42 ###
+Processing sensor 1 sample number 21: 267914296
+### Handling sensor 2 sample 433494437 number 43 ###
+Processing sensor 2 sample number 21: 433494437
+### Handling sensor 3 sample 701408733 number 44 ###
+Processing sensor 3 sample number 21: 701408733
+### Handling sensor 1 sample 1836311903 number 46 ###
+Processing sensor 1 sample number 22: 1836311903
+### Handling sensor 2 sample -1323752223 number 47 ###
+Processing sensor 2 sample number 22: -1323752223
+### Handling sensor 3 sample -811192543 number 49 ###
+Processing sensor 3 sample number 22: -811192543
+### process_task thread quit ###
+Number of samples from sensor 1 dropped: 26
+Number of samples from sensor 2 dropped: 26
+Number of samples from sensor 3 dropped: 27

@@ -1,0 +1,689 @@
+PLIBSYS VERSION: 0.0.4
+[SENS 2] Sample num 1 ready: 1
+[SENS 1] Sample num 1 ready: 1
+### Saving sensor 2 sample 1 number 1 ###
+### Saving sensor 1 sample 1 number 1 ###
+### Handling sensor 2 sample 1 number 1 ###
+[SENS 3] Sample num 1 ready: 1
+### Saving sensor 3 sample 1 number 1 ###
+[SENS 2] Sample num 2 ready: 1
+[SENS 1] Sample num 2 ready: 1
+### Saving sensor 2 sample 1 number 2 ###
+### Saving sensor 1 sample 1 number 2 ###
+[SENS 3] Sample num 2 ready: 1
+### Saving sensor 3 sample 1 number 2 ###
+Processing sensor 2 sample number 1: 1
+### Handling sensor 1 sample 1 number 1 ###
+[SENS 3] Sample num 3 ready: 2
+[SENS 2] Sample num 3 ready: 2
+[SENS 1] Sample num 3 ready: 2
+### Saving sensor 3 sample 2 number 3 ###
+### Saving sensor 1 sample 2 number 3 ###
+### Saving sensor 2 sample 2 number 3 ###
+Processing sensor 1 sample number 1: 1
+### Handling sensor 3 sample 1 number 1 ###
+[SENS 3] Sample num 4 ready: 3
+### Saving sensor 3 sample 3 number 4 ###
+[SENS 2] Sample num 4 ready: 3
+### Saving sensor 2 sample 3 number 4 ###
+[SENS 1] Sample num 4 ready: 3
+### Saving sensor 1 sample 3 number 4 ###
+[SENS 2] Sample num 5 ready: 5
+[SENS 3] Sample num 5 ready: 5
+[SENS 1] Sample num 5 ready: 5
+### Saving sensor 2 sample 5 number 5 ###
+### Saving sensor 3 sample 5 number 5 ###
+### Saving sensor 1 sample 5 number 5 ###
+Processing sensor 3 sample number 1: 1
+### Handling sensor 2 sample 1 number 2 ###
+[SENS 3] Sample num 6 ready: 8
+[SENS 2] Sample num 6 ready: 8
+### Saving sensor 3 sample 8 number 6 ###
+[SENS 1] Sample num 6 ready: 8
+### Saving sensor 2 sample 8 number 6 ###
+### Saving sensor 1 sample 8 number 6 ###
+Processing sensor 2 sample number 2: 1
+### Handling sensor 1 sample 1 number 2 ###
+[SENS 3] Sample num 7 ready: 13
+### Saving sensor 3 sample 13 number 7 ###
+[SENS 2] Sample num 7 ready: 13
+### Saving sensor 2 sample 13 number 7 ###
+[SENS 1] Sample num 7 ready: 13
+### Saving sensor 1 sample 13 number 7 ###
+[SENS 2] Sample num 8 ready: 21
+[SENS 3] Sample num 8 ready: 21
+[SENS 1] Sample num 8 ready: 21
+### Saving sensor 2 sample 21 number 8 ###
+### Saving sensor 3 sample 21 number 8 ###
+### Saving sensor 1 sample 21 number 8 ###
+Processing sensor 1 sample number 2: 1
+### Handling sensor 3 sample 1 number 2 ###
+[SENS 3] Sample num 9 ready: 34
+[SENS 2] Sample num 9 ready: 34
+[SENS 1] Sample num 9 ready: 34
+### Saving sensor 3 sample 34 number 9 ###
+### Saving sensor 1 sample 34 number 9 ###
+### Saving sensor 2 sample 34 number 9 ###
+Processing sensor 3 sample number 2: 1
+### Handling sensor 3 sample 2 number 3 ###
+[SENS 2] Sample num 10 ready: 55
+### Saving sensor 2 sample 55 number 10 ###
+[SENS 3] Sample num 10 ready: 55
+### Saving sensor 3 sample 55 number 10 ###
+[SENS 1] Sample num 10 ready: 55
+### Saving sensor 1 sample 55 number 10 ###
+[SENS 1] Sample num 11 ready: 89
+[SENS 3] Sample num 11 ready: 89
+### Saving sensor 1 sample 89 number 11 ###
+### Saving sensor 3 sample 89 number 11 ###
+[SENS 2] Sample num 11 ready: 89
+### Saving sensor 2 sample 89 number 11 ###
+Processing sensor 3 sample number 3: 2
+### Handling sensor 1 sample 2 number 3 ###
+[SENS 2] Sample num 12 ready: 144
+[SENS 3] Sample num 12 ready: 144
+### Saving sensor 2 sample 144 number 12 ###
+### Saving sensor 3 sample 144 number 12 ###
+[SENS 1] Sample num 12 ready: 144
+### Saving sensor 1 sample 144 number 12 ###
+Processing sensor 1 sample number 3: 2
+### Handling sensor 2 sample 2 number 3 ###
+[SENS 3] Sample num 13 ready: 233
+### Saving sensor 3 sample 233 number 13 ###
+[SENS 1] Sample num 13 ready: 233
+### Saving sensor 1 sample 233 number 13 ###
+[SENS 2] Sample num 13 ready: 233
+### Saving sensor 2 sample 233 number 13 ###
+[SENS 3] Sample num 14 ready: 377
+[SENS 1] Sample num 14 ready: 377
+### Saving sensor 3 sample 377 number 14 ###
+### Saving sensor 1 sample 377 number 14 ###
+[SENS 2] Sample num 14 ready: 377
+!!! the 32 nodes of queue needs to add a new node !!!
+### Saving sensor 2 sample 377 number 14 ###
+Processing sensor 2 sample number 3: 2
+### Handling sensor 3 sample 3 number 4 ###
+[SENS 2] Sample num 15 ready: 610
+[SENS 1] Sample num 15 ready: 610
+[SENS 3] Sample num 15 ready: 610
+### Saving sensor 2 sample 610 number 15 ###
+!!! the 33 nodes of queue needs to add a new node !!!
+### Saving sensor 3 sample 610 number 15 ###
+!!! the 34 nodes of queue needs to add a new node !!!
+### Saving sensor 1 sample 610 number 15 ###
+Processing sensor 3 sample number 4: 3
+### Handling sensor 2 sample 3 number 4 ###
+[SENS 2] Sample num 16 ready: 987
+### Saving sensor 2 sample 987 number 16 ###
+[SENS 3] Sample num 16 ready: 987
+!!! the 35 nodes of queue needs to add a new node !!!
+### Saving sensor 3 sample 987 number 16 ###
+[SENS 1] Sample num 16 ready: 987
+!!! the 36 nodes of queue needs to add a new node !!!
+### Saving sensor 1 sample 987 number 16 ###
+[SENS 3] Sample num 17 ready: 1597
+[SENS 1] Sample num 17 ready: 1597
+!!! the 37 nodes of queue needs to add a new node !!!
+### Saving sensor 3 sample 1597 number 17 ###
+!!! the 38 nodes of queue needs to add a new node !!!
+### Saving sensor 1 sample 1597 number 17 ###
+[SENS 2] Sample num 17 ready: 1597
+!!! the 39 nodes of queue needs to add a new node !!!
+### Saving sensor 2 sample 1597 number 17 ###
+Processing sensor 2 sample number 4: 3
+### Handling sensor 1 sample 3 number 4 ###
+[SENS 2] Sample num 18 ready: 2584
+[SENS 1] Sample num 18 ready: 2584
+### Saving sensor 2 sample 2584 number 18 ###
+!!! the 40 nodes of queue needs to add a new node !!!
+### Saving sensor 1 sample 2584 number 18 ###
+[SENS 3] Sample num 18 ready: 2584
+!!! the 41 nodes of queue needs to add a new node !!!
+### Saving sensor 3 sample 2584 number 18 ###
+Processing sensor 1 sample number 4: 3
+### Handling sensor 2 sample 5 number 5 ###
+[SENS 3] Sample num 19 ready: 4181
+### Saving sensor 3 sample 4181 number 19 ###
+[SENS 2] Sample num 19 ready: 4181
+!!! the 42 nodes of queue needs to add a new node !!!
+### Saving sensor 2 sample 4181 number 19 ###
+[SENS 1] Sample num 19 ready: 4181
+!!! the 43 nodes of queue needs to add a new node !!!
+### Saving sensor 1 sample 4181 number 19 ###
+[SENS 1] Sample num 20 ready: 6765
+[SENS 3] Sample num 20 ready: 6765
+!!! the 44 nodes of queue needs to add a new node !!!
+### Saving sensor 1 sample 6765 number 20 ###
+!!! the 45 nodes of queue needs to add a new node !!!
+### Saving sensor 3 sample 6765 number 20 ###
+[SENS 2] Sample num 20 ready: 6765
+!!! the 46 nodes of queue needs to add a new node !!!
+### Saving sensor 2 sample 6765 number 20 ###
+Processing sensor 2 sample number 5: 5
+### Handling sensor 3 sample 5 number 5 ###
+[SENS 2] Sample num 21 ready: 10946
+[SENS 1] Sample num 21 ready: 10946
+### Saving sensor 2 sample 10946 number 21 ###
+!!! the 47 nodes of queue needs to add a new node !!!
+### Saving sensor 1 sample 10946 number 21 ###
+[SENS 3] Sample num 21 ready: 10946
+!!! the 48 nodes of queue needs to add a new node !!!
+### Saving sensor 3 sample 10946 number 21 ###
+Processing sensor 3 sample number 5: 5
+### Handling sensor 1 sample 5 number 5 ###
+[SENS 1] Sample num 22 ready: 17711
+### Saving sensor 1 sample 17711 number 22 ###
+[SENS 2] Sample num 22 ready: 17711
+!!! the 49 nodes of queue needs to add a new node !!!
+### Saving sensor 2 sample 17711 number 22 ###
+[SENS 3] Sample num 22 ready: 17711
+!!! the 50 nodes of queue needs to add a new node !!!
+### Saving sensor 3 sample 17711 number 22 ###
+[SENS 2] Sample num 23 ready: 28657
+[SENS 3] Sample num 23 ready: 28657
+!!! the 51 nodes of queue needs to add a new node !!!
+### Saving sensor 2 sample 28657 number 23 ###
+!!! the 52 nodes of queue needs to add a new node !!!
+### Saving sensor 3 sample 28657 number 23 ###
+[SENS 1] Sample num 23 ready: 28657
+!!! the 53 nodes of queue needs to add a new node !!!
+### Saving sensor 1 sample 28657 number 23 ###
+Processing sensor 1 sample number 5: 5
+### Handling sensor 3 sample 8 number 6 ###
+[SENS 3] Sample num 24 ready: 46368
+[SENS 2] Sample num 24 ready: 46368
+[SENS 1] Sample num 24 ready: 46368
+### Saving sensor 3 sample 46368 number 24 ###
+!!! the 54 nodes of queue needs to add a new node !!!
+### Saving sensor 1 sample 46368 number 24 ###
+!!! the 55 nodes of queue needs to add a new node !!!
+### Saving sensor 2 sample 46368 number 24 ###
+Processing sensor 3 sample number 6: 8
+### Handling sensor 2 sample 8 number 6 ###
+[SENS 1] Sample num 25 ready: 75025
+### Saving sensor 1 sample 75025 number 25 ###
+[SENS 2] Sample num 25 ready: 75025
+!!! the 56 nodes of queue needs to add a new node !!!
+### Saving sensor 2 sample 75025 number 25 ###
+[SENS 3] Sample num 25 ready: 75025
+!!! the 57 nodes of queue needs to add a new node !!!
+### Saving sensor 3 sample 75025 number 25 ###
+[SENS 3] Sample num 26 ready: 121393
+[SENS 1] Sample num 26 ready: 121393
+!!! the 58 nodes of queue needs to add a new node !!!
+### Saving sensor 3 sample 121393 number 26 ###
+!!! the 59 nodes of queue needs to add a new node !!!
+### Saving sensor 1 sample 121393 number 26 ###
+[SENS 2] Sample num 26 ready: 121393
+!!! the 60 nodes of queue needs to add a new node !!!
+### Saving sensor 2 sample 121393 number 26 ###
+Processing sensor 2 sample number 6: 8
+### Handling sensor 1 sample 8 number 6 ###
+[SENS 2] Sample num 27 ready: 196418
+[SENS 1] Sample num 27 ready: 196418
+[SENS 3] Sample num 27 ready: 196418
+### Saving sensor 2 sample 196418 number 27 ###
+!!! the 61 nodes of queue needs to add a new node !!!
+### Saving sensor 3 sample 196418 number 27 ###
+!!! the 62 nodes of queue needs to add a new node !!!
+### Saving sensor 1 sample 196418 number 27 ###
+Processing sensor 1 sample number 6: 8
+### Handling sensor 3 sample 13 number 7 ###
+[SENS 3] Sample num 28 ready: 317811
+### Saving sensor 3 sample 317811 number 28 ###
+[SENS 2] Sample num 28 ready: 317811
+!!! the 63 nodes of queue needs to add a new node !!!
+### Saving sensor 2 sample 317811 number 28 ###
+[SENS 1] Sample num 28 ready: 317811
+!!! the 64 nodes of queue needs to add a new node !!!
+### Saving sensor 1 sample 317811 number 28 ###
+[SENS 2] Sample num 29 ready: 514229
+[SENS 3] Sample num 29 ready: 514229
+!!! the 65 nodes of queue needs to add a new node !!!
+### Saving sensor 2 sample 514229 number 29 ###
+!!! the 66 nodes of queue needs to add a new node !!!
+### Saving sensor 3 sample 514229 number 29 ###
+[SENS 1] Sample num 29 ready: 514229
+!!! the 67 nodes of queue needs to add a new node !!!
+### Saving sensor 1 sample 514229 number 29 ###
+Processing sensor 3 sample number 7: 13
+### Handling sensor 2 sample 13 number 7 ###
+[SENS 3] Sample num 30 ready: 832040
+[SENS 2] Sample num 30 ready: 832040
+### Saving sensor 3 sample 832040 number 30 ###
+!!! the 68 nodes of queue needs to add a new node !!!
+[SENS 1] Sample num 30 ready: 832040
+### Saving sensor 2 sample 832040 number 30 ###
+!!! the 69 nodes of queue needs to add a new node !!!
+### Saving sensor 1 sample 832040 number 30 ###
+Processing sensor 2 sample number 7: 13
+### Handling sensor 1 sample 13 number 7 ###
+[SENS 1] Sample num 31 ready: 1346269
+### Saving sensor 1 sample 1346269 number 31 ###
+[SENS 2] Sample num 31 ready: 1346269
+!!! the 70 nodes of queue needs to add a new node !!!
+### Saving sensor 2 sample 1346269 number 31 ###
+[SENS 3] Sample num 31 ready: 1346269
+!!! the 71 nodes of queue needs to add a new node !!!
+### Saving sensor 3 sample 1346269 number 31 ###
+[SENS 1] Sample num 32 ready: 2178309
+[SENS 2] Sample num 32 ready: 2178309
+!!! the 72 nodes of queue needs to add a new node !!!
+### Saving sensor 1 sample 2178309 number 32 ###
+!!! the 73 nodes of queue needs to add a new node !!!
+### Saving sensor 2 sample 2178309 number 32 ###
+[SENS 3] Sample num 32 ready: 2178309
+!!! the 74 nodes of queue needs to add a new node !!!
+### Saving sensor 3 sample 2178309 number 32 ###
+Processing sensor 1 sample number 7: 13
+### Handling sensor 2 sample 21 number 8 ###
+[SENS 3] Sample num 33 ready: 3524578
+### Saving sensor 3 sample 3524578 number 33 ###
+[SENS 2] Sample num 33 ready: 3524578
+!!! the 75 nodes of queue needs to add a new node !!!
+### Saving sensor 2 sample 3524578 number 33 ###
+[SENS 1] Sample num 33 ready: 3524578
+!!! the 76 nodes of queue needs to add a new node !!!
+### Saving sensor 1 sample 3524578 number 33 ###
+Processing sensor 2 sample number 8: 21
+### Handling sensor 3 sample 21 number 8 ###
+[SENS 3] Sample num 34 ready: 5702887
+### Saving sensor 3 sample 5702887 number 34 ###
+[SENS 1] Sample num 34 ready: 5702887
+[SENS 2] Sample num 34 ready: 5702887
+!!! the 77 nodes of queue needs to add a new node !!!
+### Saving sensor 1 sample 5702887 number 34 ###
+!!! the 78 nodes of queue needs to add a new node !!!
+### Saving sensor 2 sample 5702887 number 34 ###
+[SENS 3] Sample num 35 ready: 9227465
+!!! the 79 nodes of queue needs to add a new node !!!
+### Saving sensor 3 sample 9227465 number 35 ###
+[SENS 2] Sample num 35 ready: 9227465
+!!! the 80 nodes of queue needs to add a new node !!!
+### Saving sensor 2 sample 9227465 number 35 ###
+[SENS 1] Sample num 35 ready: 9227465
+!!! the 81 nodes of queue needs to add a new node !!!
+### Saving sensor 1 sample 9227465 number 35 ###
+Processing sensor 3 sample number 8: 21
+### Handling sensor 1 sample 21 number 8 ###
+[SENS 3] Sample num 36 ready: 14930352
+### Saving sensor 3 sample 14930352 number 36 ###
+[SENS 2] Sample num 36 ready: 14930352
+[SENS 1] Sample num 36 ready: 14930352
+!!! the 82 nodes of queue needs to add a new node !!!
+### Saving sensor 2 sample 14930352 number 36 ###
+!!! the 83 nodes of queue needs to add a new node !!!
+### Saving sensor 1 sample 14930352 number 36 ###
+Processing sensor 1 sample number 8: 21
+### Handling sensor 3 sample 34 number 9 ###
+[SENS 3] Sample num 37 ready: 24157817
+### Saving sensor 3 sample 24157817 number 37 ###
+[SENS 1] Sample num 37 ready: 24157817
+[SENS 2] Sample num 37 ready: 24157817
+!!! the 84 nodes of queue needs to add a new node !!!
+### Saving sensor 1 sample 24157817 number 37 ###
+!!! the 85 nodes of queue needs to add a new node !!!
+### Saving sensor 2 sample 24157817 number 37 ###
+[SENS 3] Sample num 38 ready: 39088169
+!!! the 86 nodes of queue needs to add a new node !!!
+### Saving sensor 3 sample 39088169 number 38 ###
+[SENS 1] Sample num 38 ready: 39088169
+!!! the 87 nodes of queue needs to add a new node !!!
+### Saving sensor 1 sample 39088169 number 38 ###
+[SENS 2] Sample num 38 ready: 39088169
+!!! the 88 nodes of queue needs to add a new node !!!
+### Saving sensor 2 sample 39088169 number 38 ###
+Processing sensor 3 sample number 9: 34
+### Handling sensor 1 sample 34 number 9 ###
+[SENS 3] Sample num 39 ready: 63245986
+### Saving sensor 3 sample 63245986 number 39 ###
+[SENS 2] Sample num 39 ready: 63245986
+!!! the 89 nodes of queue needs to add a new node !!!
+### Saving sensor 2 sample 63245986 number 39 ###
+[SENS 1] Sample num 39 ready: 63245986
+!!! the 90 nodes of queue needs to add a new node !!!
+### Saving sensor 1 sample 63245986 number 39 ###
+Processing sensor 1 sample number 9: 34
+### Handling sensor 2 sample 34 number 9 ###
+[SENS 3] Sample num 40 ready: 102334155
+### Saving sensor 3 sample 102334155 number 40 ###
+[SENS 2] Sample num 40 ready: 102334155
+!!! the 91 nodes of queue needs to add a new node !!!
+### Saving sensor 2 sample 102334155 number 40 ###
+[SENS 1] Sample num 40 ready: 102334155
+!!! the 92 nodes of queue needs to add a new node !!!
+### Saving sensor 1 sample 102334155 number 40 ###
+[SENS 3] Sample num 41 ready: 165580141
+!!! the 93 nodes of queue needs to add a new node !!!
+### Saving sensor 3 sample 165580141 number 41 ###
+[SENS 1] Sample num 41 ready: 165580141
+!!! the 94 nodes of queue needs to add a new node !!!
+### Saving sensor 1 sample 165580141 number 41 ###
+[SENS 2] Sample num 41 ready: 165580141
+!!! the 95 nodes of queue needs to add a new node !!!
+### Saving sensor 2 sample 165580141 number 41 ###
+Processing sensor 2 sample number 9: 34
+### Handling sensor 2 sample 55 number 10 ###
+[SENS 3] Sample num 42 ready: 267914296
+### Saving sensor 3 sample 267914296 number 42 ###
+[SENS 1] Sample num 42 ready: 267914296
+!!! the 96 nodes of queue needs to add a new node !!!
+### Saving sensor 1 sample 267914296 number 42 ###
+[SENS 2] Sample num 42 ready: 267914296
+!!! the 97 nodes of queue needs to add a new node !!!
+### Saving sensor 2 sample 267914296 number 42 ###
+Processing sensor 2 sample number 10: 55
+### Handling sensor 3 sample 55 number 10 ###
+[SENS 3] Sample num 43 ready: 433494437
+### Saving sensor 3 sample 433494437 number 43 ###
+[SENS 2] Sample num 43 ready: 433494437
+!!! the 98 nodes of queue needs to add a new node !!!
+### Saving sensor 2 sample 433494437 number 43 ###
+[SENS 1] Sample num 43 ready: 433494437
+!!! the 99 nodes of queue needs to add a new node !!!
+### Saving sensor 1 sample 433494437 number 43 ###
+[SENS 3] Sample num 44 ready: 701408733
+!!! the 100 nodes of queue needs to add a new node !!!
+### Saving sensor 3 sample 701408733 number 44 ###
+[SENS 1] Sample num 44 ready: 701408733
+[SENS 2] Sample num 44 ready: 701408733
+!!! the 101 nodes of queue needs to add a new node !!!
+### Saving sensor 1 sample 701408733 number 44 ###
+!!! the 102 nodes of queue needs to add a new node !!!
+### Saving sensor 2 sample 701408733 number 44 ###
+Processing sensor 3 sample number 10: 55
+### Handling sensor 1 sample 55 number 10 ###
+[SENS 3] Sample num 45 ready: 1134903170
+### Saving sensor 3 sample 1134903170 number 45 ###
+[SENS 1] Sample num 45 ready: 1134903170
+!!! the 103 nodes of queue needs to add a new node !!!
+### Saving sensor 1 sample 1134903170 number 45 ###
+[SENS 2] Sample num 45 ready: 1134903170
+!!! the 104 nodes of queue needs to add a new node !!!
+### Saving sensor 2 sample 1134903170 number 45 ###
+Processing sensor 1 sample number 10: 55
+### Handling sensor 1 sample 89 number 11 ###
+[SENS 3] Sample num 46 ready: 1836311903
+### Saving sensor 3 sample 1836311903 number 46 ###
+[SENS 2] Sample num 46 ready: 1836311903
+[SENS 1] Sample num 46 ready: 1836311903
+!!! the 105 nodes of queue needs to add a new node !!!
+### Saving sensor 2 sample 1836311903 number 46 ###
+!!! the 106 nodes of queue needs to add a new node !!!
+### Saving sensor 1 sample 1836311903 number 46 ###
+[SENS 3] Sample num 47 ready: -1323752223
+!!! the 107 nodes of queue needs to add a new node !!!
+### Saving sensor 3 sample -1323752223 number 47 ###
+[SENS 2] Sample num 47 ready: -1323752223
+[SENS 1] Sample num 47 ready: -1323752223
+!!! the 108 nodes of queue needs to add a new node !!!
+### Saving sensor 2 sample -1323752223 number 47 ###
+!!! the 109 nodes of queue needs to add a new node !!!
+### Saving sensor 1 sample -1323752223 number 47 ###
+Processing sensor 1 sample number 11: 89
+### Handling sensor 3 sample 89 number 11 ###
+[SENS 3] Sample num 48 ready: 512559680
+### Saving sensor 3 sample 512559680 number 48 ###
+[SENS 1] Sample num 48 ready: 512559680
+!!! the 110 nodes of queue needs to add a new node !!!
+### Saving sensor 1 sample 512559680 number 48 ###
+[SENS 2] Sample num 48 ready: 512559680
+!!! the 111 nodes of queue needs to add a new node !!!
+### Saving sensor 2 sample 512559680 number 48 ###
+Processing sensor 3 sample number 11: 89
+### Handling sensor 2 sample 89 number 11 ###
+[SENS 3] Sample num 49 ready: -811192543
+### Saving sensor 3 sample -811192543 number 49 ###
+[SENS 2] Sample num 49 ready: -811192543
+[SENS 1] Sample num 49 ready: -811192543
+!!! the 112 nodes of queue needs to add a new node !!!
+### Saving sensor 2 sample -811192543 number 49 ###
+!!! the 113 nodes of queue needs to add a new node !!!
+### Saving sensor 1 sample -811192543 number 49 ###
+Stopping sensors...
+[SENS 3] Sample num 50 ready: -298632863
+!!! the 114 nodes of queue needs to add a new node !!!
+### Saving sensor 3 sample -298632863 number 50 ###
+[SENS 2] Sample num 50 ready: -298632863
+!!! the 115 nodes of queue needs to add a new node !!!
+### Saving sensor 2 sample -298632863 number 50 ###
+Processing sensor 2 sample number 11: 89
+### Handling sensor 2 sample 144 number 12 ###
+Stopping threads...
+### collect_task thread quit ###
+Processing sensor 2 sample number 12: 144
+### Handling sensor 3 sample 144 number 12 ###
+Processing sensor 3 sample number 12: 144
+### Handling sensor 1 sample 144 number 12 ###
+Processing sensor 1 sample number 12: 144
+### Handling sensor 3 sample 233 number 13 ###
+Processing sensor 3 sample number 13: 233
+### Handling sensor 1 sample 233 number 13 ###
+Processing sensor 1 sample number 13: 233
+### Handling sensor 2 sample 233 number 13 ###
+Processing sensor 2 sample number 13: 233
+### Handling sensor 3 sample 377 number 14 ###
+Processing sensor 3 sample number 14: 377
+### Handling sensor 1 sample 377 number 14 ###
+Processing sensor 1 sample number 14: 377
+### Handling sensor 2 sample 377 number 14 ###
+Processing sensor 2 sample number 14: 377
+### Handling sensor 2 sample 610 number 15 ###
+Processing sensor 2 sample number 15: 610
+### Handling sensor 3 sample 610 number 15 ###
+Processing sensor 3 sample number 15: 610
+### Handling sensor 1 sample 610 number 15 ###
+Processing sensor 1 sample number 15: 610
+### Handling sensor 2 sample 987 number 16 ###
+Processing sensor 2 sample number 16: 987
+### Handling sensor 3 sample 987 number 16 ###
+Processing sensor 3 sample number 16: 987
+### Handling sensor 1 sample 987 number 16 ###
+Processing sensor 1 sample number 16: 987
+### Handling sensor 3 sample 1597 number 17 ###
+Processing sensor 3 sample number 17: 1597
+### Handling sensor 1 sample 1597 number 17 ###
+Processing sensor 1 sample number 17: 1597
+### Handling sensor 2 sample 1597 number 17 ###
+Processing sensor 2 sample number 17: 1597
+### Handling sensor 2 sample 2584 number 18 ###
+Processing sensor 2 sample number 18: 2584
+### Handling sensor 1 sample 2584 number 18 ###
+Processing sensor 1 sample number 18: 2584
+### Handling sensor 3 sample 2584 number 18 ###
+Processing sensor 3 sample number 18: 2584
+### Handling sensor 3 sample 4181 number 19 ###
+Processing sensor 3 sample number 19: 4181
+### Handling sensor 2 sample 4181 number 19 ###
+Processing sensor 2 sample number 19: 4181
+### Handling sensor 1 sample 4181 number 19 ###
+Processing sensor 1 sample number 19: 4181
+### Handling sensor 1 sample 6765 number 20 ###
+Processing sensor 1 sample number 20: 6765
+### Handling sensor 3 sample 6765 number 20 ###
+Processing sensor 3 sample number 20: 6765
+### Handling sensor 2 sample 6765 number 20 ###
+Processing sensor 2 sample number 20: 6765
+### Handling sensor 2 sample 10946 number 21 ###
+Processing sensor 2 sample number 21: 10946
+### Handling sensor 1 sample 10946 number 21 ###
+Processing sensor 1 sample number 21: 10946
+### Handling sensor 3 sample 10946 number 21 ###
+Processing sensor 3 sample number 21: 10946
+### Handling sensor 1 sample 17711 number 22 ###
+Processing sensor 1 sample number 22: 17711
+### Handling sensor 2 sample 17711 number 22 ###
+Processing sensor 2 sample number 22: 17711
+### Handling sensor 3 sample 17711 number 22 ###
+Processing sensor 3 sample number 22: 17711
+### Handling sensor 2 sample 28657 number 23 ###
+Processing sensor 2 sample number 23: 28657
+### Handling sensor 3 sample 28657 number 23 ###
+Processing sensor 3 sample number 23: 28657
+### Handling sensor 1 sample 28657 number 23 ###
+Processing sensor 1 sample number 23: 28657
+### Handling sensor 3 sample 46368 number 24 ###
+Processing sensor 3 sample number 24: 46368
+### Handling sensor 1 sample 46368 number 24 ###
+Processing sensor 1 sample number 24: 46368
+### Handling sensor 2 sample 46368 number 24 ###
+Processing sensor 2 sample number 24: 46368
+### Handling sensor 1 sample 75025 number 25 ###
+Processing sensor 1 sample number 25: 75025
+### Handling sensor 2 sample 75025 number 25 ###
+Processing sensor 2 sample number 25: 75025
+### Handling sensor 3 sample 75025 number 25 ###
+Processing sensor 3 sample number 25: 75025
+### Handling sensor 3 sample 121393 number 26 ###
+Processing sensor 3 sample number 26: 121393
+### Handling sensor 1 sample 121393 number 26 ###
+Processing sensor 1 sample number 26: 121393
+### Handling sensor 2 sample 121393 number 26 ###
+Processing sensor 2 sample number 26: 121393
+### Handling sensor 2 sample 196418 number 27 ###
+Processing sensor 2 sample number 27: 196418
+### Handling sensor 3 sample 196418 number 27 ###
+Processing sensor 3 sample number 27: 196418
+### Handling sensor 1 sample 196418 number 27 ###
+Processing sensor 1 sample number 27: 196418
+### Handling sensor 3 sample 317811 number 28 ###
+Processing sensor 3 sample number 28: 317811
+### Handling sensor 2 sample 317811 number 28 ###
+Processing sensor 2 sample number 28: 317811
+### Handling sensor 1 sample 317811 number 28 ###
+Processing sensor 1 sample number 28: 317811
+### Handling sensor 2 sample 514229 number 29 ###
+Processing sensor 2 sample number 29: 514229
+### Handling sensor 3 sample 514229 number 29 ###
+Processing sensor 3 sample number 29: 514229
+### Handling sensor 1 sample 514229 number 29 ###
+Processing sensor 1 sample number 29: 514229
+### Handling sensor 3 sample 832040 number 30 ###
+Processing sensor 3 sample number 30: 832040
+### Handling sensor 2 sample 832040 number 30 ###
+Processing sensor 2 sample number 30: 832040
+### Handling sensor 1 sample 832040 number 30 ###
+Processing sensor 1 sample number 30: 832040
+### Handling sensor 1 sample 1346269 number 31 ###
+Processing sensor 1 sample number 31: 1346269
+### Handling sensor 2 sample 1346269 number 31 ###
+Processing sensor 2 sample number 31: 1346269
+### Handling sensor 3 sample 1346269 number 31 ###
+Processing sensor 3 sample number 31: 1346269
+### Handling sensor 1 sample 2178309 number 32 ###
+Processing sensor 1 sample number 32: 2178309
+### Handling sensor 2 sample 2178309 number 32 ###
+Processing sensor 2 sample number 32: 2178309
+### Handling sensor 3 sample 2178309 number 32 ###
+Processing sensor 3 sample number 32: 2178309
+### Handling sensor 3 sample 3524578 number 33 ###
+Processing sensor 3 sample number 33: 3524578
+### Handling sensor 2 sample 3524578 number 33 ###
+Processing sensor 2 sample number 33: 3524578
+### Handling sensor 1 sample 3524578 number 33 ###
+Processing sensor 1 sample number 33: 3524578
+### Handling sensor 3 sample 5702887 number 34 ###
+Processing sensor 3 sample number 34: 5702887
+### Handling sensor 1 sample 5702887 number 34 ###
+Processing sensor 1 sample number 34: 5702887
+### Handling sensor 2 sample 5702887 number 34 ###
+Processing sensor 2 sample number 34: 5702887
+### Handling sensor 3 sample 9227465 number 35 ###
+Processing sensor 3 sample number 35: 9227465
+### Handling sensor 2 sample 9227465 number 35 ###
+Processing sensor 2 sample number 35: 9227465
+### Handling sensor 1 sample 9227465 number 35 ###
+Processing sensor 1 sample number 35: 9227465
+### Handling sensor 3 sample 14930352 number 36 ###
+Processing sensor 3 sample number 36: 14930352
+### Handling sensor 2 sample 14930352 number 36 ###
+Processing sensor 2 sample number 36: 14930352
+### Handling sensor 1 sample 14930352 number 36 ###
+Processing sensor 1 sample number 36: 14930352
+### Handling sensor 3 sample 24157817 number 37 ###
+Processing sensor 3 sample number 37: 24157817
+### Handling sensor 1 sample 24157817 number 37 ###
+Processing sensor 1 sample number 37: 24157817
+### Handling sensor 2 sample 24157817 number 37 ###
+Processing sensor 2 sample number 37: 24157817
+### Handling sensor 3 sample 39088169 number 38 ###
+Processing sensor 3 sample number 38: 39088169
+### Handling sensor 1 sample 39088169 number 38 ###
+Processing sensor 1 sample number 38: 39088169
+### Handling sensor 2 sample 39088169 number 38 ###
+Processing sensor 2 sample number 38: 39088169
+### Handling sensor 3 sample 63245986 number 39 ###
+Processing sensor 3 sample number 39: 63245986
+### Handling sensor 2 sample 63245986 number 39 ###
+Processing sensor 2 sample number 39: 63245986
+### Handling sensor 1 sample 63245986 number 39 ###
+Processing sensor 1 sample number 39: 63245986
+### Handling sensor 3 sample 102334155 number 40 ###
+Processing sensor 3 sample number 40: 102334155
+### Handling sensor 2 sample 102334155 number 40 ###
+Processing sensor 2 sample number 40: 102334155
+### Handling sensor 1 sample 102334155 number 40 ###
+Processing sensor 1 sample number 40: 102334155
+### Handling sensor 3 sample 165580141 number 41 ###
+Processing sensor 3 sample number 41: 165580141
+### Handling sensor 1 sample 165580141 number 41 ###
+Processing sensor 1 sample number 41: 165580141
+### Handling sensor 2 sample 165580141 number 41 ###
+Processing sensor 2 sample number 41: 165580141
+### Handling sensor 3 sample 267914296 number 42 ###
+Processing sensor 3 sample number 42: 267914296
+### Handling sensor 1 sample 267914296 number 42 ###
+Processing sensor 1 sample number 42: 267914296
+### Handling sensor 2 sample 267914296 number 42 ###
+Processing sensor 2 sample number 42: 267914296
+### Handling sensor 3 sample 433494437 number 43 ###
+Processing sensor 3 sample number 43: 433494437
+### Handling sensor 2 sample 433494437 number 43 ###
+Processing sensor 2 sample number 43: 433494437
+### Handling sensor 1 sample 433494437 number 43 ###
+Processing sensor 1 sample number 43: 433494437
+### Handling sensor 3 sample 701408733 number 44 ###
+Processing sensor 3 sample number 44: 701408733
+### Handling sensor 1 sample 701408733 number 44 ###
+Processing sensor 1 sample number 44: 701408733
+### Handling sensor 2 sample 701408733 number 44 ###
+Processing sensor 2 sample number 44: 701408733
+### Handling sensor 3 sample 1134903170 number 45 ###
+Processing sensor 3 sample number 45: 1134903170
+### Handling sensor 1 sample 1134903170 number 45 ###
+Processing sensor 1 sample number 45: 1134903170
+### Handling sensor 2 sample 1134903170 number 45 ###
+Processing sensor 2 sample number 45: 1134903170
+### Handling sensor 3 sample 1836311903 number 46 ###
+Processing sensor 3 sample number 46: 1836311903
+### Handling sensor 2 sample 1836311903 number 46 ###
+Processing sensor 2 sample number 46: 1836311903
+### Handling sensor 1 sample 1836311903 number 46 ###
+Processing sensor 1 sample number 46: 1836311903
+### Handling sensor 3 sample -1323752223 number 47 ###
+Processing sensor 3 sample number 47: -1323752223
+### Handling sensor 2 sample -1323752223 number 47 ###
+Processing sensor 2 sample number 47: -1323752223
+### Handling sensor 1 sample -1323752223 number 47 ###
+Processing sensor 1 sample number 47: -1323752223
+### Handling sensor 3 sample 512559680 number 48 ###
+Processing sensor 3 sample number 48: 512559680
+### Handling sensor 1 sample 512559680 number 48 ###
+Processing sensor 1 sample number 48: 512559680
+### Handling sensor 2 sample 512559680 number 48 ###
+Processing sensor 2 sample number 48: 512559680
+### Handling sensor 3 sample -811192543 number 49 ###
+Processing sensor 3 sample number 49: -811192543
+### Handling sensor 2 sample -811192543 number 49 ###
+Processing sensor 2 sample number 49: -811192543
+### Handling sensor 1 sample -811192543 number 49 ###
+Processing sensor 1 sample number 49: -811192543
+### Handling sensor 3 sample -298632863 number 50 ###
+Processing sensor 3 sample number 50: -298632863
+### Handling sensor 2 sample -298632863 number 50 ###
+Processing sensor 2 sample number 50: -298632863
+### process_task thread quit ###
+### 116 nodes of the queue will be released ###
+Number of samples from sensor 1 dropped: 0
+Number of samples from sensor 2 dropped: 0
+Number of samples from sensor 3 dropped: 0
